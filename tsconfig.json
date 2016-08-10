@@ -1,0 +1,16 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true
+  },
+  "files": [
+    "CustomerService.ts",
+    "AnimalProvider.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "typings"
+  ]
+}
