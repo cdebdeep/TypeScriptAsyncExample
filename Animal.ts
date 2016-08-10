@@ -1,6 +1,6 @@
 export class Dog{
     constructor(private name:string){
-///ssss
+
     }
     Bark(){
         console.log(this.name + " Bark");
